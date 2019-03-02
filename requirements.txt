@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+
+flask_weasyprint>=0.5
+google-cloud-bigtable==0.31.1
+google-cloud-core==0.28.1
+google-cloud-storage==1.14.0
+google-cloud-bigquery==1.9.0
