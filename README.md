@@ -1,4 +1,4 @@
-# cloudfunction-write-to-bigtable
+# cloudfunction-bigtable-to-bigquery
 A Cloud Function, writted in Python, to perform the following steps:
 
   1) get data from a request;
